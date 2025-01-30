@@ -19,8 +19,9 @@ A passionate full-stack JavaScript developer (Frontend Heavy) from India🇮🇳
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 
 
+![Sumit's github stats](https://github-readme-stats.vercel.app/api?username=sumit12690&theme=tokyonight&show_icons=true&hide=["issues"])
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumit12690&theme=tokyonight&layout=compact)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumit12690&show_icons=true&locale=en&layout=compact" alt="sumit12690" /></p>
 
 <h3> 🤝🏻 Connect with Me </h3>
 
