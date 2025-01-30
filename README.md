@@ -1,6 +1,11 @@
 ### Hi there, I'm Sumit👦,
-A Frontend developer🎯 from India.
+A passionate full-stack JavaScript developer (Frontend Heavy)from India🇮🇳
 
+- 🔭 I’m currently working on **Security Cloud Control project as a Frontend(React) lead at Cisco.**
+
+- 📫 How to reach me **sumit12690@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/sumit12690](https://www.linkedin.com/in/sumit12690)
 
 **Languages:**  
 
@@ -13,6 +18,9 @@ A Frontend developer🎯 from India.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumit12690&show_icons=true&locale=en&layout=compact" alt="sumit12690" /></p>
 
 <h3> 🤝🏻 Connect with Me </h3>
 
